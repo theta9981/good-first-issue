@@ -54,3 +54,5 @@ $ bun dev # start the development server
 ```
 
 The app should open in your browser.
+
+thank you for making this issue
